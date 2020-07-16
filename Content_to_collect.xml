@@ -77,4 +77,10 @@
 			<Event_Path>Microsoft-Windows-AppxDeploymentServer/Operational</Event_Path>			
 		</Event_Log>
 	</Event_Logs>
+	<Reg_Keys>
+		<Reg_Key>
+			<Reg_Path></Reg_Path>
+			<Reg_Specific_Value></Reg_Specific_Value>			
+		</Reg_Key>	
+	</Reg_Keys>	
 </Content_to_collect>
